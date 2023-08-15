@@ -1,0 +1,39 @@
+body {background: white;}
+
+.menu-box{
+    background: gray;
+    padding: 20px;
+    border: 4px solid black;
+    position: relative;
+    
+}
+
+.menu-box h2{
+    color: black;
+    margin: 0;
+    padding: 2px 4px;
+    position: absolute;
+    top:0;
+    right:0;
+    background-color: salmon;
+
+}
+
+.menu-box.sushi h2{
+    background: yellow;
+    
+}
+
+.menu-box.beef h2{
+    background: red;
+}
+
+.menu-boxes{
+    background: pink;
+    border: 4px
+}
+
+h1{
+    text-align: center;
+}
+
