@@ -30,7 +30,9 @@ body {background: white;}
 
 .menu-boxes{
     background: pink;
-    border: 4px
+    border: 4px;
+    padding: 10px 10px 10px 10px;
+    margin: 40px;
 }
 
 h1{
